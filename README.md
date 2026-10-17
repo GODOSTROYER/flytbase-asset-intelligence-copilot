@@ -35,7 +35,7 @@ A separate fleet-status routing regression passed; the hosted UI retest returned
 - [Unseen hosted questions and targeted fixes](apps/asset-intelligence-copilot/docs/UNSEEN_LIVE_CHECKS.md)
 - [Submission writeup draft](apps/asset-intelligence-copilot/submission/writeup.md)
 
-The map plots coordinates without an external basemap. The user picker demonstrates memory isolation and is not production authentication. Numeric/source membership checks do not prove every generated sentence's meaning. Exact billed model spend is unmeasured. The final dataset/questions, final own-voice video and portal submission confirmation remain separate deliverables.
+The map plots coordinates without an external basemap. The user picker demonstrates memory isolation and is not production authentication. Numeric/source membership checks do not prove every generated sentence's meaning. Exact billed model spend is unmeasured. [OrganizerHQ submission v1 was saved on 17 October 2026 at approximately 14:26 IST](apps/asset-intelligence-copilot/docs/SUBMISSION_RECEIPT.md). Final event answers and the entrant's own-voice replacement remain pending; the saved video is a disclosed AI-voiced draft.
 
 No dataset, credentials, saved histories, dependencies, build output or upstream Git history are distributed here. Challenge data and manuals are fictional and are not operational guidance.
 
